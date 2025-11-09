@@ -29,7 +29,7 @@ Load:- Loaded the transformed data into Excel where further analysis could take 
 
 Sales Report :
 
-1. Create a [customer Performance ReportReport](https://github.com/karthcbk123/Excel_Sales_Financial_Analysis/blob/main/Customer%20Performance%20Report.pdf)
+1. Create a [customer Performance Report(https://github.com/karthcbk123/Excel_Sales_Financial_Analysis/blob/main/Customer%20Performance%20Report.pdf)
 
 
 
