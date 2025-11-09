@@ -15,13 +15,16 @@ The main objective of this project was to analyze the sales and financial data f
 
 The specific goals were to:
 
-1- Clean and organize the sales data using ETL processes. 2- Create performance reports for sales, customers, and markets. 3- Identify key performance trends in terms of sales growth, product performance, and profitability. 4- Help the company improve its net sales, gross margin, and overall financial health.
+1- Clean and organize the sales data using ETL processes. 
+2- Create performance reports for sales, customers, and markets. 
+3- Identify key performance trends in terms of sales growth, product performance, and profitability. 
+4- Help the company improve its net sales, gross margin, and overall financial health.
 
 
 Data Preparation
 The project involved cleaning and transforming the data using ETL processes:
 
-Extract:- Extracted raw data from various sources like CSV and Excel files.
+Extract:-  Extracted raw data from various sources like CSV and Excel files.
 
 Transform:- Cleaned and transformed the data by removing duplicates, handling missing values, and aggregating it in a structured format.
 
@@ -56,7 +59,15 @@ Project objective:
 2.  Create Profit and Loss (P&L) reports by  [Markets](https://github.com/karthcbk123/Excel_Sales_Financial_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)
   
 
-.Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+Importance of analyzing Finance data: Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
+
+
+
 
 
 
