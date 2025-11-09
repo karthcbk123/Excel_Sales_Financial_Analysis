@@ -36,10 +36,7 @@ Here are the key reports I created to help AtliQ Hardware monitor and improve it
 
 This report shows the Net Sales for different customers in the years 2019, 2020, and 2021. It also includes the % Performance Growth (2021 vs 2020). This report can be filtered to show the performance of individual customers by country, region, or division. The insights from this report help AtliQ understand the sales behavior of key customers and identify growth opportunities.
 
-https://github.com/karthcbk123/Excel_Sales_Financial_Analysis/blob/74e6f0250c5062cf170df690d3457c96392d045b/Customer%20Performance%20Report.pdf
-
-
-   
+[customer Performance Report](https://github.com/karthcbk123/Excel_Sales_Financial_Analysis/blob/main/Customer%20Performance%20Report.pdf)
 
 
 
