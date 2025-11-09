@@ -24,7 +24,12 @@ The specific goals were to:
 4- Help the company improve its net sales, gross margin, and overall financial health.
 
 
+
+
 Data Preparation
+
+
+
 The project involved cleaning and transforming the data using ETL processes:
 
 Extract:-  Extracted raw data from various sources like CSV and Excel files.
