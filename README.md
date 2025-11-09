@@ -11,6 +11,7 @@ Problem Overview
 AtliQ Hardware works with several large clients such as Croma, Best Buy, Staples, and Flipkart, and its sales data is scattered across multiple sources and is highly unorganized. In this project, I worked with over half a million sales records, leveraging ETL (Extract, Transform, Load) techniques to organize and structure the data. The reports produced provide actionable insights into the company’s sales performance, customer behavior, and financial health. These insights empower AtliQ Hardware's management to make better strategic decisions and monitor their financial goals.
 
 Objectives
+
 The main objective of this project was to analyze the sales and financial data for AtliQ Hardware and create several insightful reports that would help the company understand their performance and make data-driven decisions.
 
 The specific goals were to:
