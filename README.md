@@ -98,8 +98,11 @@ Here are the key insights:
 
 6- Real-Life Data Projects: Working on real-life data projects like this one helped me better understand how to apply theoretical knowledge to practical situations and deliver impactful business insights.
 
-Conclusion
-This project was a fantastic opportunity to work with real-world sales and finance data. It allowed me to apply advanced Excel, and ETL techniques to solve business problems and generate actionable insights. By analyzing sales performance, customer behavior, and financial health, AtliQ Hardware is better equipped to make informed decisions and improve its overall business performance.
+      
+      
+      Conclusion
+
+      This project was a fantastic opportunity to work with real-world sales and finance data. It allowed me to apply advanced Excel, and ETL techniques to solve business problems and generate actionable insights. By analyzing sales performance, customer behavior, and financial health, AtliQ Hardware is better equipped to make informed decisions and improve its overall business performance.
 
    
    
