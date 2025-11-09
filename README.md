@@ -27,17 +27,9 @@ Transform:- Cleaned and transformed the data by removing duplicates, handling mi
 
 Load:- Loaded the transformed data into Excel where further analysis could take place. I used Power Pivot to model the data and DAX (Data Analysis Expressions) for creating calculated columns and measures. These techniques allowed me to build interactive reports that can be used for decision-making.
 
+Sales Report :
 
-Reports Generation
-
-Here are the key reports I created to help AtliQ Hardware monitor and improve its business performance:
-
-1- Customer Performance Report :-
-
-This report shows the Net Sales for different customers in the years 2019, 2020, and 2021. It also includes the % Performance Growth (2021 vs 2020). This report can be filtered to show the performance of individual customers by country, region, or division. The insights from this report help AtliQ understand the sales behavior of key customers and identify growth opportunities.
-
-[customer Performance Report](https://github.com/karthcbk123/Excel_Sales_Financial_Analysis/blob/main/Customer%20Performance%20Report.pdf)
-
+1. Create a [customer Performance Report]
 
 
 
