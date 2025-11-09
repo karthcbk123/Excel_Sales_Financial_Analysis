@@ -79,7 +79,7 @@ Project objective:
 
 
 
-        Key Insights and Learnings
+Key Insights and Learnings
 
 
    Throughout this project, I learned the value of data-driven decision-making and gained practical experience in working with large datasets.
@@ -100,13 +100,19 @@ Here are the key insights:
 
       
       
-      Conclusion
+
+
+
+
+Conclusion
 
       This project was a fantastic opportunity to work with real-world sales and finance data. It allowed me to apply advanced Excel, and ETL techniques to solve business problems and generate actionable insights. By analyzing sales performance, customer behavior, and financial health, AtliQ Hardware is better equipped to make informed decisions and improve its overall business performance.
+   
+   
+   
 
-   
-   
-   
+
+
 Tools & Technologies Used
  
  1- Microsoft Excel: Used for data analysis, modeling, and creating pivot tables.  
