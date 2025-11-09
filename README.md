@@ -27,10 +27,19 @@ Transform:- Cleaned and transformed the data by removing duplicates, handling mi
 
 Load:- Loaded the transformed data into Excel where further analysis could take place. I used Power Pivot to model the data and DAX (Data Analysis Expressions) for creating calculated columns and measures. These techniques allowed me to build interactive reports that can be used for decision-making.
 
+
+
+
 Sales Report :
 
 1. Create a [customer Performance Report](https://github.com/karthcbk123/Excel_Sales_Financial_Analysis/blob/main/Customer%20Performance%20Report.pdf)
 2. Conduct a comprehensive comparison between[Market Performance vs Target Report](https://github.com/karthcbk123/Excel_Sales_Financial_Analysis/blob/main/Market%20Performance%20vs%20Target%20Report.pdfhttps://github.com/karthcbk123/Excel_Sales_Financial_Analysis/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+
+
+   Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
+    Importance of analyzing sales data: Identify sales patterns and track key performance indicators (KPIs).
+   Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+
 
 
 
